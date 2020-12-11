@@ -11,8 +11,10 @@ ScriptsOnlyBuild:
     - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.TileDragAndDropManager
+    Unity.Postprocessing.Runtime.dll:
+    - UnityEngine.Rendering.PostProcessing.PostProcessResources
   sceneClasses:
-    Assets/venue_f0446aef329f89d186a0510630.unity:
+    Assets/venue_697e7bceae7b2c871e0dd57256.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -36,9 +38,9 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 12638}
+      Script: {instanceID: 12640}
     - Class: 114
-      Script: {instanceID: 12698}
+      Script: {instanceID: 12700}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 136
@@ -62,6 +64,6 @@ ScriptsOnlyBuild:
     className: DespawnHeight
   platform: 5
   scenePathNames:
-  - Assets/venue_f0446aef329f89d186a0510630.unity
-  playerPath: C:/Users/WAVERL~1/AppData/Local/Temp/DefaultCompany/Cluster Creator
-    Kit Sample/StandaloneWindows/venue_f0446aef329f89d186a0510630
+  - Assets/venue_697e7bceae7b2c871e0dd57256.unity
+  playerPath: C:/Users/user/AppData/Local/Temp/DefaultCompany/Cluster Creator Kit
+    Sample/StandaloneWindows/venue_697e7bceae7b2c871e0dd57256
